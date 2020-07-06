@@ -55,6 +55,5 @@
 # Check Out My other Projects-
  Android Projects-
   Instagram-Clone,
-  Whatsapp-Clone,
   Twitter-Clone,
   Uber-Clone.
